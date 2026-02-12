@@ -1,4 +1,4 @@
-# Netflix Movies na Tv Shows Data Analysis using SQL
+# Netflix Movies  Tv Shows Data Analysis using SQL
 
 ![Netflix logo](https://github.com/Archana6279a/netflix_sql-project/blob/main/netflix%20logo.jpg)
 
